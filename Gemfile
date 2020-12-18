@@ -59,7 +59,6 @@ gem 'alchemy-devise', '~> 4.6'
 gem 'thin'
 
 group :production do
-  gem 'rails_12factor'
   gem 'rack-cache', require: 'rack/cache'
   gem "dragonfly-s3_data_store"
   gem 'dalli'
