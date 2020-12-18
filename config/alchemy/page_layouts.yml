@@ -6,3 +6,12 @@
   unique: true
   elements: [article]
   autogenerate: [article]
+
+- name: samuelhall
+  elements: [article]
+
+- name: projects
+  elements: [article]
+
+- name: releases
+  elements: [article]
