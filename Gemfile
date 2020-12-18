@@ -60,6 +60,7 @@ gem 'thin'
 
 group :production do
   gem 'rack-cache', require: 'rack/cache'
+  gem 'rails_12factor'
   gem "dragonfly-s3_data_store"
   gem 'dalli'
   gem 'kgio'
