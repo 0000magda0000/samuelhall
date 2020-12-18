@@ -17,3 +17,8 @@
     type: EssenceRichtext
     default: :article_text
     hint: true
+
+- name: menu
+  contents:
+  - name: text
+    type: EssenceText
